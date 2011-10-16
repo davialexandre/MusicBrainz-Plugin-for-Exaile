@@ -1,0 +1,4 @@
+Version='0.0.1'
+Authors=['Davi Alexandre <davi@davialexandre.com.br']
+Name='MusicBrainz'
+Description=_('Search Musicbrainz database for suggestions to fill in ID3 tags from a file.\n\nDepends: python-musicbrainz2')
